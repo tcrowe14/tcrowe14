@@ -49,44 +49,35 @@
 
 ###
 
+<!-- Main text and GIFs in a flex container -->
+<div style="display: flex; align-items: flex-start; gap: 20px;">
+  <!-- Left Column: Main Text -->
+  <div style="flex: 1;">
+    <p align="left">
+      Detail oriented software developer student with over 14 years of experience in the technical trades. As a Communications Foreman oversaw several crews on multiple projects simultaneously. Responsible for translating complex drawing and details into a real world installation.<br><br>
+      Took part in several large projects including The Bow, Brookfield Place, Equinix Data Centers, and the BMO Expansion. Involved in all aspects of network infrastructure including VOIP, copper, fiber optics, DAS, full stack switching equipment, and UPS systems.<br><br>
+      Deployed the first Canadian Equinix network upgrade. Involved interfacing with several members across Europe and North America. After successful launch, was recruited to upgrade the remaining Calgary facilities.<br><br>
+      Responsible for crews up to 25 members. Managing hours, material, and coordinating with other companies to maintain strict timelines. Mentored new apprentices creating a safe and welcoming workspace.<br><br>
+      Eager to blend my hands-on technical expertise with my passion for innovative software development. I strive to leverage modern technologies and data-driven solutions to transform operational efficiency. This vision aligns seamlessly with my background in managing complex technical projects. I am committed to integrating my experience in infrastructure deployment, team leadership, and continuous learning to build high-impact, intuitive solutions that drive progress and efficiency.
+    </p>
+  </div>
+  <!-- Right Column: Stacked Images -->
+  <div style="display: flex; flex-direction: column; gap: 10px;">
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm51bXFmejdzM2p5dTJxZnBxYWlzcDJ1a3djYXE2dXlzcTlkczBhZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QMHoU66sBXqqLqYvGO/giphy.gif" height="200" alt="GIF 1"  />
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjJ1enA3MHZ1Z2Z0dmJweDQzZ2ZoM29lbTYycGZxMnkyYjlqOXJyOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QAyjPLqflqGQw/giphy.gif" height="200" alt="GIF 2"  />
+  </div>
+</div>
+
+###
+
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=tcrowe14.tcrowe14&left_color=cornflowerblue&right_color=burlywood" alt="visitor badge"  />
+</div>
+
+###
+
 <div align="left">
   <a href="https://www.linkedin.com/in/taylor-crowe-7a3560294/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<p align="left">Detail oriented software developer student with over 14 years of experience in the technical trades. As a Communications Foreman oversaw several crews on multiple projects simultaneously. Responsible for translating complex drawing and details into a real world installation.</p>
-
-###
-
-<p align="left">Took part in several large projects including The Bow, Brookfield Place, Equinix Data Centers, and the BMO Expansion. Involved in all aspects of network infrastructure including VOIP, copper, fiber optics, DAS, full stack switching equipment. and UPS systems.</p>
-
-###
-
-<p align="left">Deployed the first Canadian Equinix network upgrade. Involved interfacing with several members across Europe and North America. After successful launch, was recruited to upgrade the remaining Calgary facilities.</p>
-
-###
-
-<img align="right" height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjJ1enA3MHZ1Z2Z0dmJweDQzZ2ZoM29lbTYycGZxMnkyYjlqOXJyOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QAyjPLqflqGQw/giphy.gif"  />
-
-###
-
-<p align="left">Responsible for crews up to 25 members.  Managing hours, material, and coordinating with other companies to maintain strict timelines. Mentored new apprentices creating a safe and welcoming workspace.</p>
-
-###
-
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
-
-###
-
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=tcrowe14.tcrowe14&left_color=cornflowerblue&right_color=burlywood"  />
-
-###
