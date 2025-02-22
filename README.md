@@ -9,10 +9,6 @@
 
 ###
 
-<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjJ1enA3MHZ1Z2Z0dmJweDQzZ2ZoM29lbTYycGZxMnkyYjlqOXJyOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QAyjPLqflqGQw/giphy.gif"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -53,10 +49,31 @@
 
 ###
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+<div align="left">
+  <a href="https://www.linkedin.com/in/taylor-crowe-7a3560294/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
 </div>
+
+###
+
+<p align="left">Detail oriented software developer student with over 14 years of experience in the technical trades. As a Communications Foreman oversaw several crews on multiple projects simultaneously. Responsible for translating complex drawing and details into a real world installation.</p>
+
+###
+
+<p align="left">Took part in several large projects including The Bow, Brookfield Place, Equinix Data Centers, and the BMO Expansion. Involved in all aspects of network infrastructure including VOIP, copper, fiber optics, DAS, full stack switching equipment. and UPS systems.</p>
+
+###
+
+<p align="left">Deployed the first Canadian Equinix network upgrade. Involved interfacing with several members across Europe and North America. After successful launch, was recruited to upgrade the remaining Calgary facilities.</p>
+
+###
+
+<img align="right" height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjJ1enA3MHZ1Z2Z0dmJweDQzZ2ZoM29lbTYycGZxMnkyYjlqOXJyOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QAyjPLqflqGQw/giphy.gif"  />
+
+###
+
+<p align="left">Responsible for crews up to 25 members.  Managing hours, material, and coordinating with other companies to maintain strict timelines. Mentored new apprentices creating a safe and welcoming workspace.</p>
 
 ###
 
@@ -70,6 +87,6 @@
 
 ###
 
-<p align="left">Hello World!!</p>
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=tcrowe14.tcrowe14&left_color=cornflowerblue&right_color=burlywood"  />
 
 ###
