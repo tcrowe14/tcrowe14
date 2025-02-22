@@ -53,15 +53,17 @@
 
 ###
 
+<img align="right" height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm51bXFmejdzM2p5dTJxZnBxYWlzcDJ1a3djYXE2dXlzcTlkczBhZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QMHoU66sBXqqLqYvGO/giphy.gif"  />
+
+###
+
 <p align="left">Detail oriented software developer student with over 14 years of experience in the technical trades. As a Communications Foreman oversaw several crews on multiple projects simultaneously. Responsible for translating complex drawing and details into a real world installation.<br><br>Took part in several large projects including The Bow, Brookfield Place, Equinix Data Centers, and the BMO Expansion. Involved in all aspects of network infrastructure including VOIP, copper, fiber optics, DAS, full stack switching equipment. and UPS systems.<br><br>Deployed the first Canadian Equinix network upgrade. Involved interfacing with several members across Europe and North America. After successful launch, was recruited to upgrade the remaining Calgary facilities. <br><br>Responsible for crews up to 25 members.  Managing hours, material, and coordinating with other companies to maintain strict timelines. Mentored new apprentices creating a safe and welcoming workspace.<br><br>Eager to blend my hands-on technical expertise with my passion for innovative software development. I strive to leverage modern technologies and data-driven solutions to transform operational efficiency. This vision aligns seamlessly with my background in managing complex technical projects. I am committed to integrating my experience is infrastructure deployment, team leadership, and continuous learning to build high-impact, intuitive solutions that drive progress and efficiency.</p>
 
 ###
 
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=tcrowe14.tcrowe14&left_color=cornflowerblue&right_color=burlywood"  />
 
-###
 
-<img align="right" height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm51bXFmejdzM2p5dTJxZnBxYWlzcDJ1a3djYXE2dXlzcTlkczBhZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QMHoU66sBXqqLqYvGO/giphy.gif"  />
 
 ###
 
