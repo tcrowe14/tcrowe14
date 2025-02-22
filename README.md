@@ -49,24 +49,25 @@
 
 ###
 
-<!-- Main text and GIFs in a flex container -->
-<div style="display: flex; align-items: flex-start; gap: 20px;">
-  <!-- Left Column: Main Text -->
-  <div style="flex: 1;">
-    <p align="left">
-      Detail oriented software developer student with over 14 years of experience in the technical trades. As a Communications Foreman oversaw several crews on multiple projects simultaneously. Responsible for translating complex drawing and details into a real world installation.<br><br>
-      Took part in several large projects including The Bow, Brookfield Place, Equinix Data Centers, and the BMO Expansion. Involved in all aspects of network infrastructure including VOIP, copper, fiber optics, DAS, full stack switching equipment, and UPS systems.<br><br>
-      Deployed the first Canadian Equinix network upgrade. Involved interfacing with several members across Europe and North America. After successful launch, was recruited to upgrade the remaining Calgary facilities.<br><br>
-      Responsible for crews up to 25 members. Managing hours, material, and coordinating with other companies to maintain strict timelines. Mentored new apprentices creating a safe and welcoming workspace.<br><br>
-      Eager to blend my hands-on technical expertise with my passion for innovative software development. I strive to leverage modern technologies and data-driven solutions to transform operational efficiency. This vision aligns seamlessly with my background in managing complex technical projects. I am committed to integrating my experience in infrastructure deployment, team leadership, and continuous learning to build high-impact, intuitive solutions that drive progress and efficiency.
-    </p>
-  </div>
-  <!-- Right Column: Stacked Images -->
-  <div style="display: flex; flex-direction: column; gap: 10px;">
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm51bXFmejdzM2p5dTJxZnBxYWlzcDJ1a3djYXE2dXlzcTlkczBhZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QMHoU66sBXqqLqYvGO/giphy.gif" height="200" alt="GIF 1"  />
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjJ1enA3MHZ1Z2Z0dmJweDQzZ2ZoM29lbTYycGZxMnkyYjlqOXJyOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QAyjPLqflqGQw/giphy.gif" height="200" alt="GIF 2"  />
-  </div>
-</div>
+<table>
+  <tr>
+    <!-- Left Cell: Main Text -->
+    <td valign="top" width="70%">
+      <p align="left">
+        Detail oriented software developer student with over 14 years of experience in the technical trades. As a Communications Foreman oversaw several crews on multiple projects simultaneously. Responsible for translating complex drawing and details into a real world installation.<br><br>
+        Took part in several large projects including The Bow, Brookfield Place, Equinix Data Centers, and the BMO Expansion. Involved in all aspects of network infrastructure including VOIP, copper, fiber optics, DAS, full stack switching equipment, and UPS systems.<br><br>
+        Deployed the first Canadian Equinix network upgrade. Involved interfacing with several members across Europe and North America. After successful launch, was recruited to upgrade the remaining Calgary facilities.<br><br>
+        Responsible for crews up to 25 members. Managing hours, material, and coordinating with other companies to maintain strict timelines. Mentored new apprentices creating a safe and welcoming workspace.<br><br>
+        Eager to blend my hands-on technical expertise with my passion for innovative software development. I strive to leverage modern technologies and data-driven solutions to transform operational efficiency. This vision aligns seamlessly with my background in managing complex technical projects. I am committed to integrating my experience in infrastructure deployment, team leadership, and continuous learning to build high-impact, intuitive solutions that drive progress and efficiency.
+      </p>
+    </td>
+    <!-- Right Cell: Stacked GIFs -->
+    <td valign="top" width="30%">
+      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm51bXFmejdzM2p5dTJxZnBxYWlzcDJ1a3djYXE2dXlzcTlkczBhZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QMHoU66sBXqqLqYvGO/giphy.gif" height="200" alt="GIF 1"  /><br>
+      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjJ1enA3MHZ1Z2Z0dmJweDQzZ2ZoM29lbTYycGZxMnkyYjlqOXJyOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QAyjPLqflqGQw/giphy.gif" height="200" alt="GIF 2"  />
+    </td>
+  </tr>
+</table>
 
 ###
 
