@@ -72,7 +72,7 @@
 ###
 
 <div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=tcrowe14.tcrowe14&left_color=cornflowerblue&right_color=burlywood" alt="visitor badge"  />
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=tcrowe14.tcrowe14&left_color=cornflowerblue&right_color=burlywood"  />
 </div>
 
 ###
